@@ -1,8 +1,8 @@
 {
-  "isOpen": false,
-  "startTime": "2025-08-12T00:00:00+09:00",
-  "endTime": "2025-08-16T00:00:00+09:00",
-  "applyLink" : "https://forms.gle/UMjEaYwGX2RyWfLh8",
+  "isOpen": true,
+  "startTime": "2026-03-02T00:00:00+09:00",
+  "endTime": "2026-03-09T00:00:00+09:00",
+  "applyLink" : "https://docs.google.com/forms/d/e/1FAIpQLScn-7wYSuvIVuduNoDdjgRihmsMHNGmXK_r5zqAMvqv3LrwkA/viewform?usp=header",
   "ctfLink" : "http://ctf.ssu-asc.kr/",
   "resultLink" : ""
 }
