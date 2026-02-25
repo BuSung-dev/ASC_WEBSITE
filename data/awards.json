@@ -1,5 +1,11 @@
 {
     "awards" : [{
+        "contestName" : "PoC CTF 2025",
+        "awardName" : "2등",
+        "winnerName" : "백부승",
+        "date" : "2025-9-21",
+        "image" : "/award_image/poc_2025.jpg"
+    },{
         "contestName" : "Hacktheon 2025 (고급부)",
         "awardName" : "대상",
         "winnerName" : "Team. ASCii",
