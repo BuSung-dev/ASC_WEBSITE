@@ -1,7 +1,7 @@
 {
     "awards" : [{
         "contestName" : "PoC CTF 2025",
-        "awardName" : "2등",
+        "awardName" : "2위",
         "winnerName" : "백부승",
         "date" : "2025-9-21",
         "image" : "/award_image/poc_2025.jpg"
